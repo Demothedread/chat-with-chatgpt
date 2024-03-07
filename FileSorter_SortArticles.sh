@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Directory where sorted articles are stored
-article_directory="/path/to/articles"
+article_directory= "/Users/jreback/Library/CloudStorage/GoogleDrive-jmreback@gmail.com/My Drive/Hesperia Report- Resources/articles"
 
 # Sub-directories for each category
 mkdir -p "${article_directory}/1_Introduction_Overview_General_Laws"
